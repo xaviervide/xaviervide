@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hi there! 👋
 📌 I'm currently located in Barcelona, Spain<br>💡  Proficient with React, Node, Express, MongoDB and Redux<br>✉️ You can contact me at xaviervidef@gmail.com<br>👨‍💻 I really enjoy coding and food 🥢<br><br>
 
 
